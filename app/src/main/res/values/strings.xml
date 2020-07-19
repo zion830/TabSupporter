@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name" translatable="false">TabSupporter</string>
+    <string name="mode_all">Enable TabSupporter</string>
+    <string name="mode_softkey">Enable Soft key</string>
+    <string name="mode_air_command">Enable Air Command</string>
+</resources>

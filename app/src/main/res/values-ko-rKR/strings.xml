@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mode_all">TabSupporter 활성화</string>
+    <string name="mode_softkey">소프트키 활성화</string>
+    <string name="mode_air_command">에어커맨드 활성화</string>
+</resources>
